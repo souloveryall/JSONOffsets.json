@@ -1,3 +1,9 @@
+// Roblox Version: version-d584fb6c717a43d9
+// Dumped at: 2026-08-08 05:57:48
+// Total FFlags: 14148
+// soulovery'all
+// Fuck Roblox
+
 {
   "DFFlagACSDeserializeWithUnpublished": "0x83208A0",
   "DFFlagAESAddCreatorIdToSearch3": "0x8340CA8",
@@ -842,7 +848,6 @@
   "DFFlagDisableCaptureModeGuiObjectFiltering": "0x816C788",
   "DFFlagDisableCaptureModeTouchGuiCantSelect": "0x816C848",
   "DFFlagDisableChatModerationModeSummarySuppression": "0x8203328",
-  "DFFlagDisableDPIScale": "0x81C9B08",
   "DFFlagDisableFastLogTelemetry": "0x7EDB498",
   "DFFlagDisableLTAnalytics": "0x81F6948",
   "DFFlagDisableLegacyFRMStatsInEphemeralStats": "0x81A4A68",
@@ -3806,6 +3811,7 @@
   "FFlagDisableCacheSizeTelemetry": "0x8217898",
   "FFlagDisableCloudsForMultiview": "0x8148248",
   "FFlagDisableConsumerAppFoundationLegacyTelemetryMetrics": "0x833C1D0",
+  "FFlagDisableDPIScale": "0x81C9B08",
   "FFlagDisableDomainAllowListPaymentsException": "0x8213ED8",
   "FFlagDisableFacialAnimationStreamingServiceV2": "0x8321B50",
   "FFlagDisableFeatureRestrictionManagerClientSignalR": "0x8340E88",
@@ -7420,7 +7426,6 @@
   "DFIntDebugCustomDPIScale": "0x7A56820",
   "DFIntDebugDefaultTargetWorldStepsPerFrame": "0x815DEC8",
   "DFIntDebugDynamicRenderKiloPixels": "0x7A565D0",
-  "DFIntDebugFRMQualityLevelOverride": "0x81C9698",
   "DFIntDebugFakeMemoryMB": "0x8149268",
   "DFIntDebugGraphicsIndexLimit": "0x7A32648",
   "DFIntDebugGraphicsIndexPercent": "0x7A324C8",
@@ -11197,6 +11202,7 @@
   "FIntDebugConstantBufferPageSizeD3D11": "0x7A39628",
   "FIntDebugContourProcessTextSize": "0x7AA4F18",
   "FIntDebugFRMOptionalMSAALevelOverride": "0x7A7F510",
+  "FIntDebugFRMQualityLevelOverride": "0x81C9698",
   "FIntDebugFakeTotalMemoryAvailableMB": "0x813FA60",
   "FIntDebugForceMSAASamples": "0x8145E08",
   "FIntDebugForcePioneerSourceType": "0x833B100",
@@ -11487,6 +11493,7 @@
   "FIntMVTerrainHeightMapBlendMin": "0x8153850",
   "FIntMVTerrainHeightMapBlendScale": "0x7A5C4B8",
   "FIntMVTerrainRotationParam": "0x8153838",
+  "FIntMacBackgroundDownloadUpdates2": "0x8691818",
   "FIntMaquettesFrameRateBufferPercentage": "0x7A7F400",
   "FIntMaquettesHighMSAALevel": "0x7A7F7A0",
   "FIntMaquettesMinMSAALevel": "0x7A7F778",
